@@ -4,5 +4,6 @@
 <module rename-to="Hello">
 	<inherits name="com.google.gwt.user.User" />
 	<source path="client" />
+	<source path="shared" />
 	<entry-point class="com.ptc.tut.client.Home" />
 </module>
