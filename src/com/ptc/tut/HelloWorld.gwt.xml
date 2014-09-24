@@ -5,5 +5,6 @@
 	<inherits name="com.google.gwt.user.User" />
 	<source path="client" />
 	<source path="shared" />
+	<source path="events" />
 	<entry-point class="com.ptc.tut.client.Home" />
 </module>
